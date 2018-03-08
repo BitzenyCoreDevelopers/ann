@@ -1,4 +1,4 @@
-baseurl = "https://ann.bitzeny.tech/"
+baseurl = "http://bitzeny.tech/ann/"
 languageCode = "en-us"
 Title = "Your site title"
 # Copyright notice. This is displayer in the footer.
